@@ -13,5 +13,7 @@ int main()
     cout<< "|| Hobi \t\t: hiking,gaming, futsal \t\t ||" <<endl;
     cout<< "|| Alamat\t\t: Mindaka, Traub, Tegal\t\t\t ||"<<endl;
     cout<<"=================================================================="<<endl;
+    
+    return 0; 
 
 }
