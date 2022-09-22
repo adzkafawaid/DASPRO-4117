@@ -18,7 +18,7 @@ int main()
     cin >> n;
     cout <<" \t b. Masukan jari-jari \t: ";
     cin >> r;
-    cout <<" \t==> Masukan jari-jari \t: ";
+    cout <<" \t==> Masukan rumus \t: ";
     cin >> rumus;
     cout <<" \t--> Hasilnya adalah \t: " << n*r*r << endl;
     cout <<"==========================================================================================="<<endl;
