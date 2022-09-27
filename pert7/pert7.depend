@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664195831 source:c:\daspro-4117\pert7\main.cpp
+	<iostream>
+	<stdio.h>
+
